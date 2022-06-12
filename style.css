@@ -106,5 +106,6 @@ button:hover{
   }
 /*BOOSTING PEOPLE*/
 #rocketseat{
+    justify-content:center;
     margin-bottom: 6px;
 }
