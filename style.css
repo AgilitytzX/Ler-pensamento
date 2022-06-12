@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*HEADER*/
+.cabecalho{
+    background-color: rgb(18, 18, 20);
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: space-around;
+    width: 100%;
+    border-bottom: 2px solid rgb(41, 41, 46);
+    padding: 10px 0 ;
+}
+/*NAV*/
+.cabecalho_menu{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    list-style: none;
+    margin-top: 5px;
+    margin-right: 340px;
+    font-family: 'Roboto', sans-serif;    
+}
+.cabecalho_menu a{
+    text-decoration:none;
+    color: rgb(168, 168, 179);
+    font-weight: 700;
+    font-size: large;
+    cursor: pointer;  
+}
+/*MAIN*/
+body{
+    background-color: rgb(18, 18, 20);
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://www.10wallpaper.com/wallpaper/1366x768/1701/Blue_and_brown_starry_sky-Space_High_Quality_Wallpaper_1366x768.jpg);
+    background-repeat: no-repeat;
+}
+#container{
+    background-color: rgb(138, 43, 226,0.1);
+    width: 80%;
+    height: 50%;
+    margin-inline: auto;
+    padding-inline: 50px;
+    max-width: 700px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    border-radius: 4px;
+}
+/*BOLA DE CRISTAL*/
+#bola{
+    margin-top: 10px;
+}
+/*TEXTOS*/
+h1{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    opacity: 0.9;
+}
+p{
+    margin-bottom: 30px;
+    opacity: 0.7;
+}
+/*BOTÕES*/
+input,button{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 4px;
+}
+input{
+    margin-bottom: 20px;
+    border: none;
+}
+button{
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    transition: filter 0.7s;
+    margin-bottom: 35px;
+}
+button:hover{
+    filter: brightness(1.2);
+    cursor: pointer;
+}
+#resposta{
+    margin-top: 30px;
+  transition: opacity 1s;
+}
+#resposta div {
+    font-size: 16px;
+    font-weight: normal;
+    opacity: 0.9;
+    margin-bottom: 10px;
+  }
+/*BOOSTING PEOPLE*/
+#rocketseat{
+    margin-bottom: 6px;
+}
