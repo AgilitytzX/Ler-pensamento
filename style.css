@@ -8,7 +8,7 @@
     background-color: rgb(18, 18, 20);
     display: flex;
     margin-bottom: 20px;
-    justify-content: space-around;
+    justify-content: space-evenly;
     width: 100%;
     border-bottom: 2px solid rgb(41, 41, 46);
     padding: 10px 0 ;
@@ -20,7 +20,6 @@
     align-items: center;
     list-style: none;
     margin-top: 5px;
-    margin-right: 340px;
     font-family: 'Roboto', sans-serif;    
 }
 .cabecalho_menu a{
