@@ -1,2 +1,2 @@
-Site para a Maratona Explorer ROCKETSEAT 
+Site feito junto a Rocketseat , primeira experiência com um DEV
 
