@@ -1,4 +1,4 @@
-# Maratona Explorer 
+# Ler pensamento 
 
 > First Week (1.0)
 
