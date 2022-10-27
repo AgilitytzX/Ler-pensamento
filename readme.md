@@ -6,7 +6,7 @@
 
 Project developed at the Rocketseat Maratona Explorer event
 
-[ 🔗 click here to acess](https://agilitytzx.github.io/maratona-explorer/)
+[ 🔗 click here to acess](https://agilitytzx.github.io/Ler-pensamento/)
 
 
 ## 🛠 Technologies
